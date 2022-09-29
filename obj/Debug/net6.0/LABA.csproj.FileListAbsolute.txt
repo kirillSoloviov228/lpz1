@@ -1,0 +1,15 @@
+C:\Users\lemwo\RiderProjects\LABA\LABA\bin\Debug\net6.0\LABA.exe
+C:\Users\lemwo\RiderProjects\LABA\LABA\bin\Debug\net6.0\LABA.deps.json
+C:\Users\lemwo\RiderProjects\LABA\LABA\bin\Debug\net6.0\LABA.runtimeconfig.json
+C:\Users\lemwo\RiderProjects\LABA\LABA\bin\Debug\net6.0\LABA.dll
+C:\Users\lemwo\RiderProjects\LABA\LABA\bin\Debug\net6.0\LABA.pdb
+C:\Users\lemwo\RiderProjects\LABA\LABA\obj\Debug\net6.0\LABA.csproj.AssemblyReference.cache
+C:\Users\lemwo\RiderProjects\LABA\LABA\obj\Debug\net6.0\LABA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lemwo\RiderProjects\LABA\LABA\obj\Debug\net6.0\LABA.AssemblyInfoInputs.cache
+C:\Users\lemwo\RiderProjects\LABA\LABA\obj\Debug\net6.0\LABA.AssemblyInfo.cs
+C:\Users\lemwo\RiderProjects\LABA\LABA\obj\Debug\net6.0\LABA.csproj.CoreCompileInputs.cache
+C:\Users\lemwo\RiderProjects\LABA\LABA\obj\Debug\net6.0\LABA.dll
+C:\Users\lemwo\RiderProjects\LABA\LABA\obj\Debug\net6.0\refint\LABA.dll
+C:\Users\lemwo\RiderProjects\LABA\LABA\obj\Debug\net6.0\LABA.pdb
+C:\Users\lemwo\RiderProjects\LABA\LABA\obj\Debug\net6.0\LABA.genruntimeconfig.cache
+C:\Users\lemwo\RiderProjects\LABA\LABA\obj\Debug\net6.0\ref\LABA.dll
